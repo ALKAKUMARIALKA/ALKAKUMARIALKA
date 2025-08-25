@@ -1,24 +1,12 @@
-# Hi, I'm Alka Kumari 👋  
+# Pentest Scripts 🛠️
 
-🔐 **Cybersecurity Professional | Penetration Tester | Certified CTIA**  
+A collection of beginner-friendly penetration testing scripts written in Python.  
 
-- 💻 3+ years in **Penetration Testing & SOC Operations**  
-- 🛡️ Skilled in **Web App Security, Threat Intelligence, Red Teaming**  
-- 🔍 Experienced with tools: **Burp Suite, Nmap, Nessus, Metasploit, Splunk**  
-- 📊 Projects: AI-Powered Ransomware Detection, WordPress Pentest, Insider Threat Detection  
-- 🎯 Active on **TryHackMe & YesWeHack** (Bug Bounty)  
-- 📚 Lifelong learner, exploring advanced offensive security & malware analysis  
+## 📂 Scripts Included
+- **port_scanner.py** → Scans target IP for open ports  
+- **hash_cracker.py** → Simple MD5 hash cracking using a wordlist  
+- **dir_bruteforce.py** → Brute-force directories on a target web server  
 
----
-
-## 📂 Featured Repositories  
-- [Pentest Scripts](#) → Port scanner, hash cracker, directory brute-forcer  
-- [AI Ransomware Detection](#) → Machine learning model, 90% accuracy  
-- [Security Notes](#) → OWASP Top 10, XSS payloads, Nmap cheatsheet  
-
----
-
-## 📫 Connect with Me  
-- 🌐 [Website](https://www.alkaupadhyay.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/alkauppadhyay)  
-- ✉️ contact@alkaupadhyay.com  
+## ⚠️ Disclaimer
+These scripts are for **educational and ethical testing purposes only**.  
+Use them responsibly and only on systems you own or have permission to test.
